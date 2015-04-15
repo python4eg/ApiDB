@@ -47,4 +47,4 @@ def main():
         db_connect.close()
 
 if __name__ == '__main__':
-    sys.exit(main())
+    sys.exit(main())asd

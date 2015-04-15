@@ -8,7 +8,7 @@ class DBQueueException(Exception):
 
     """DBQueueException, raised all exception"""
 
-    def __init__(self, message):
+asdsad    def __init__(self, message):
         self.message = message
     def __str__(self):
         return self.message
@@ -220,3 +220,4 @@ class DBQueue:
 
         self.logger.debug('Get data successful')
         return result
+sad0
